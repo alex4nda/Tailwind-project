@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url('../image/blue-tech.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1468px;
+    background-position: 90% -25%;
+    background-attachment: fixed; /*edit*/
+}
+#cta{
+    background-image: url('..image/bg-simplify-section-desktop.svg');
+    background-repeat: no-repeat;
+}
